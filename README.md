@@ -15,3 +15,5 @@
 ```
 AI-Based CCTV System Development for Construction Site Safety
 ```
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjyhh&show_icons=true&theme=radical)
