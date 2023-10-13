@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 # 건설 현장 위험 상태 판단 AI CCTV 개발 제안
  <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=#3776AB&logoColor=white"/>
 ## 프로젝트 소개
