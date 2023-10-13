@@ -1,5 +1,5 @@
 # 건설 현장 위험 상태 판단 AI CCTV 개발 제안
-
+ <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=#3776AB&logoColor=white"/>
 ## 프로젝트 소개
 이 프로젝트는 **건설 현장의 안전성을 향상**시키기 위한 것입니다.
 
