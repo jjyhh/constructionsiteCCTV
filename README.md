@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=AI-Based CCTV&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=AI-Based%20CCTV&fontSize=90)
 
 # 건설 현장 위험 상태 판단 AI CCTV 개발 제안
  <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=#3776AB&logoColor=white"/>
